@@ -2,14 +2,257 @@
   "schemaVersion": 1,
   "collection": "watercolor-v2",
   "stations": {
-    "hangzhou-east": [{ "file": "scenes/hangzhou-east-v2.webp", "alt": "杭州东站房与高铁的水彩风景" }],
-    "fuyang": [{ "file": "scenes/fuyang-v2.webp", "alt": "富阳富春江晨光水彩风景" }],
-    "tonglu": [{ "file": "scenes/tonglu-v2.webp", "alt": "桐庐富春江山水水彩风景" }],
-    "jiande": [{ "file": "scenes/jiande-v2.webp", "alt": "建德新安江与山谷水彩风景" }],
-    "qiandaohu": [{ "file": "scenes/qiandaohu-v2.webp", "alt": "千岛湖群岛与湖面水彩风景" }],
-    "sanyang": [{ "file": "scenes/sanyang-v2.webp", "alt": "三阳皖南山谷溪流水彩风景" }],
-    "jixi-north": [{ "file": "scenes/jixi-north-v2.webp", "alt": "绩溪北山地田野水彩风景" }],
-    "sheixian-north": [{ "file": "scenes/sheixian-north-v2.webp", "alt": "歙县北徽州村落水彩风景" }],
-    "huangshan-north": [{ "file": "scenes/huangshan-north-v2.webp", "alt": "黄山北山峰与徽州田野水彩风景" }]
+    "hangzhou-east": [
+      {
+        "file": "scenes/hangzhou-east-v2.webp",
+        "alt": "杭州东站房与高铁的水彩风景"
+      }
+    ],
+    "fuyang": [
+      {
+        "file": "scenes/fuyang-v2.webp",
+        "alt": "富阳富春江晨光水彩风景"
+      }
+    ],
+    "tonglu": [
+      {
+        "file": "scenes/tonglu-v2.webp",
+        "alt": "桐庐富春江山水水彩风景"
+      }
+    ],
+    "jiande": [
+      {
+        "file": "scenes/jiande-v2.webp",
+        "alt": "建德新安江与山谷水彩风景"
+      }
+    ],
+    "qiandaohu": [
+      {
+        "file": "scenes/qiandaohu-v2.webp",
+        "alt": "千岛湖群岛与湖面水彩风景"
+      }
+    ],
+    "sanyang": [
+      {
+        "file": "scenes/sanyang-v2.webp",
+        "alt": "三阳皖南山谷溪流水彩风景"
+      }
+    ],
+    "jixi-north": [
+      {
+        "file": "scenes/jixi-north-v2.webp",
+        "alt": "绩溪北山地田野水彩风景"
+      }
+    ],
+    "sheixian-north": [
+      {
+        "file": "scenes/sheixian-north-v2.webp",
+        "alt": "歙县北徽州村落水彩风景"
+      }
+    ],
+    "huangshan-north": [
+      {
+        "file": "scenes/huangshan-north-v2.webp",
+        "alt": "黄山北山峰与徽州田野水彩风景"
+      }
+    ],
+    "china-fuzhou": [
+      {
+        "file": "scenes/china-fuzhou-v1.webp",
+        "alt": "福建·福州的水彩风景"
+      }
+    ],
+    "china-taipei": [
+      {
+        "file": "scenes/china-taipei-v1.webp",
+        "alt": "台湾·台北的水彩风景"
+      }
+    ],
+    "china-guangzhou": [
+      {
+        "file": "scenes/china-guangzhou-v1.webp",
+        "alt": "广东·广州的水彩风景"
+      }
+    ],
+    "china-hong-kong-west-kowloon": [
+      {
+        "file": "scenes/china-hong-kong-west-kowloon-v1.webp",
+        "alt": "香港·香港西九龙的水彩风景"
+      }
+    ],
+    "china-macau": [
+      {
+        "file": "scenes/china-macau-v1.webp",
+        "alt": "澳门·澳门的水彩风景"
+      }
+    ],
+    "china-haikou": [
+      {
+        "file": "scenes/china-haikou-v1.webp",
+        "alt": "海南·海口的水彩风景"
+      }
+    ],
+    "china-nanning": [
+      {
+        "file": "scenes/china-nanning-v1.webp",
+        "alt": "广西·南宁的水彩风景"
+      }
+    ],
+    "china-guiyang": [
+      {
+        "file": "scenes/china-guiyang-v1.webp",
+        "alt": "贵州·贵阳的水彩风景"
+      }
+    ],
+    "china-kunming": [
+      {
+        "file": "scenes/china-kunming-v1.webp",
+        "alt": "云南·昆明的水彩风景"
+      }
+    ],
+    "china-chengdu": [
+      {
+        "file": "scenes/china-chengdu-v1.webp",
+        "alt": "四川·成都的水彩风景"
+      }
+    ],
+    "china-chongqing": [
+      {
+        "file": "scenes/china-chongqing-v1.webp",
+        "alt": "重庆·重庆的水彩风景"
+      }
+    ],
+    "china-lhasa": [
+      {
+        "file": "scenes/china-lhasa-v1.webp",
+        "alt": "西藏·拉萨的水彩风景"
+      }
+    ],
+    "china-xining": [
+      {
+        "file": "scenes/china-xining-v1.webp",
+        "alt": "青海·西宁的水彩风景"
+      }
+    ],
+    "china-urumqi": [
+      {
+        "file": "scenes/china-urumqi-v1.webp",
+        "alt": "新疆·乌鲁木齐的水彩风景"
+      }
+    ],
+    "china-lanzhou": [
+      {
+        "file": "scenes/china-lanzhou-v1.webp",
+        "alt": "甘肃·兰州的水彩风景"
+      }
+    ],
+    "china-yinchuan": [
+      {
+        "file": "scenes/china-yinchuan-v1.webp",
+        "alt": "宁夏·银川的水彩风景"
+      }
+    ],
+    "china-xian": [
+      {
+        "file": "scenes/china-xian-v1.webp",
+        "alt": "陕西·西安的水彩风景"
+      }
+    ],
+    "china-hohhot": [
+      {
+        "file": "scenes/china-hohhot-v1.webp",
+        "alt": "内蒙古·呼和浩特的水彩风景"
+      }
+    ],
+    "china-taiyuan": [
+      {
+        "file": "scenes/china-taiyuan-v1.webp",
+        "alt": "山西·太原的水彩风景"
+      }
+    ],
+    "china-shijiazhuang": [
+      {
+        "file": "scenes/china-shijiazhuang-v1.webp",
+        "alt": "河北·石家庄的水彩风景"
+      }
+    ],
+    "china-beijing": [
+      {
+        "file": "scenes/china-beijing-v1.webp",
+        "alt": "北京·北京的水彩风景"
+      }
+    ],
+    "china-tianjin": [
+      {
+        "file": "scenes/china-tianjin-v1.webp",
+        "alt": "天津·天津的水彩风景"
+      }
+    ],
+    "china-shenyang": [
+      {
+        "file": "scenes/china-shenyang-v1.webp",
+        "alt": "辽宁·沈阳的水彩风景"
+      }
+    ],
+    "china-changchun": [
+      {
+        "file": "scenes/china-changchun-v1.webp",
+        "alt": "吉林·长春的水彩风景"
+      }
+    ],
+    "china-harbin": [
+      {
+        "file": "scenes/china-harbin-v1.webp",
+        "alt": "黑龙江·哈尔滨的水彩风景"
+      }
+    ],
+    "china-jinan": [
+      {
+        "file": "scenes/china-jinan-v1.webp",
+        "alt": "山东·济南的水彩风景"
+      }
+    ],
+    "china-zhengzhou": [
+      {
+        "file": "scenes/china-zhengzhou-v1.webp",
+        "alt": "河南·郑州的水彩风景"
+      }
+    ],
+    "china-wuhan": [
+      {
+        "file": "scenes/china-wuhan-v1.webp",
+        "alt": "湖北·武汉的水彩风景"
+      }
+    ],
+    "china-changsha": [
+      {
+        "file": "scenes/china-changsha-v1.webp",
+        "alt": "湖南·长沙的水彩风景"
+      }
+    ],
+    "china-nanchang": [
+      {
+        "file": "scenes/china-nanchang-v1.webp",
+        "alt": "江西·南昌的水彩风景"
+      }
+    ],
+    "china-hefei": [
+      {
+        "file": "scenes/china-hefei-v1.webp",
+        "alt": "安徽·合肥的水彩风景"
+      }
+    ],
+    "china-nanjing": [
+      {
+        "file": "scenes/china-nanjing-v1.webp",
+        "alt": "江苏·南京的水彩风景"
+      }
+    ],
+    "china-shanghai-hongqiao": [
+      {
+        "file": "scenes/china-shanghai-hongqiao-v1.webp",
+        "alt": "上海·上海虹桥的水彩风景"
+      }
+    ]
   }
 }

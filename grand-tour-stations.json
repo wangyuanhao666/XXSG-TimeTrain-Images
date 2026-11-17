@@ -1,0 +1,167 @@
+[
+  {
+    "id": "fuzhou",
+    "region": "福建",
+    "name": "福州"
+  },
+  {
+    "id": "taipei",
+    "region": "台湾",
+    "name": "台北"
+  },
+  {
+    "id": "guangzhou",
+    "region": "广东",
+    "name": "广州"
+  },
+  {
+    "id": "hong-kong-west-kowloon",
+    "region": "香港",
+    "name": "香港西九龙"
+  },
+  {
+    "id": "macau",
+    "region": "澳门",
+    "name": "澳门"
+  },
+  {
+    "id": "haikou",
+    "region": "海南",
+    "name": "海口"
+  },
+  {
+    "id": "nanning",
+    "region": "广西",
+    "name": "南宁"
+  },
+  {
+    "id": "guiyang",
+    "region": "贵州",
+    "name": "贵阳"
+  },
+  {
+    "id": "kunming",
+    "region": "云南",
+    "name": "昆明"
+  },
+  {
+    "id": "chengdu",
+    "region": "四川",
+    "name": "成都"
+  },
+  {
+    "id": "chongqing",
+    "region": "重庆",
+    "name": "重庆"
+  },
+  {
+    "id": "lhasa",
+    "region": "西藏",
+    "name": "拉萨"
+  },
+  {
+    "id": "xining",
+    "region": "青海",
+    "name": "西宁"
+  },
+  {
+    "id": "urumqi",
+    "region": "新疆",
+    "name": "乌鲁木齐"
+  },
+  {
+    "id": "lanzhou",
+    "region": "甘肃",
+    "name": "兰州"
+  },
+  {
+    "id": "yinchuan",
+    "region": "宁夏",
+    "name": "银川"
+  },
+  {
+    "id": "xian",
+    "region": "陕西",
+    "name": "西安"
+  },
+  {
+    "id": "hohhot",
+    "region": "内蒙古",
+    "name": "呼和浩特"
+  },
+  {
+    "id": "taiyuan",
+    "region": "山西",
+    "name": "太原"
+  },
+  {
+    "id": "shijiazhuang",
+    "region": "河北",
+    "name": "石家庄"
+  },
+  {
+    "id": "beijing",
+    "region": "北京",
+    "name": "北京"
+  },
+  {
+    "id": "tianjin",
+    "region": "天津",
+    "name": "天津"
+  },
+  {
+    "id": "shenyang",
+    "region": "辽宁",
+    "name": "沈阳"
+  },
+  {
+    "id": "changchun",
+    "region": "吉林",
+    "name": "长春"
+  },
+  {
+    "id": "harbin",
+    "region": "黑龙江",
+    "name": "哈尔滨"
+  },
+  {
+    "id": "jinan",
+    "region": "山东",
+    "name": "济南"
+  },
+  {
+    "id": "zhengzhou",
+    "region": "河南",
+    "name": "郑州"
+  },
+  {
+    "id": "wuhan",
+    "region": "湖北",
+    "name": "武汉"
+  },
+  {
+    "id": "changsha",
+    "region": "湖南",
+    "name": "长沙"
+  },
+  {
+    "id": "nanchang",
+    "region": "江西",
+    "name": "南昌"
+  },
+  {
+    "id": "hefei",
+    "region": "安徽",
+    "name": "合肥"
+  },
+  {
+    "id": "nanjing",
+    "region": "江苏",
+    "name": "南京"
+  },
+  {
+    "id": "shanghai-hongqiao",
+    "region": "上海",
+    "name": "上海虹桥"
+  }
+]
