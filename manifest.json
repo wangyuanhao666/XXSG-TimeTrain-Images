@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "collection": "watercolor-v2",
+  "stations": {
+    "hangzhou-east": [{ "file": "scenes/hangzhou-east-v2.webp", "alt": "杭州东站房与高铁的水彩风景" }],
+    "fuyang": [{ "file": "scenes/fuyang-v2.webp", "alt": "富阳富春江晨光水彩风景" }],
+    "tonglu": [{ "file": "scenes/tonglu-v2.webp", "alt": "桐庐富春江山水水彩风景" }],
+    "jiande": [{ "file": "scenes/jiande-v2.webp", "alt": "建德新安江与山谷水彩风景" }],
+    "qiandaohu": [{ "file": "scenes/qiandaohu-v2.webp", "alt": "千岛湖群岛与湖面水彩风景" }],
+    "sanyang": [{ "file": "scenes/sanyang-v2.webp", "alt": "三阳皖南山谷溪流水彩风景" }],
+    "jixi-north": [{ "file": "scenes/jixi-north-v2.webp", "alt": "绩溪北山地田野水彩风景" }],
+    "sheixian-north": [{ "file": "scenes/sheixian-north-v2.webp", "alt": "歙县北徽州村落水彩风景" }],
+    "huangshan-north": [{ "file": "scenes/huangshan-north-v2.webp", "alt": "黄山北山峰与徽州田野水彩风景" }]
+  }
+}
